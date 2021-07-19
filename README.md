@@ -7,9 +7,9 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on Javascript
+
 - 🌱 I’m currently learning everything I can find
-- 📫 How to reach me: [Twitter](https://twitter.com/), [LinkedIn](https://www.linkedin.com/in/)
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ouissal-edd&layout=compact)](https://github.com/ouissal-edd)
